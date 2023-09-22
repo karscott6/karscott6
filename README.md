@@ -1,7 +1,7 @@
 ## Kyle Scott
 
 - Previously: tradesperson, driver, sales.
-- Currently: dad, partner, developer
+- Currently: dad, partner, developing developer
 
 - 🔭 I’m currently working on myself at Humber College in Web Development.
 - 🌱 I’m currently learning HTML, JS, CSS, C#, MySQL.
