@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning HTML, JS, CSS, C#, MySQL.
 
 - 📫 How to reach me:   [![Discord Badge](https://img.shields.io/badge/-karscott6-purple?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/karscott6)
-                        [![Stack Badge](https://img.shields.io/badge/Stack%20%Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22524549/karscott6)
+                        [![Stack Badge](https://img.shields.io/badge/Stack%20%Overflow-F58025?style=for-the-badge&logo=stack%20%overflow&logoColor=white)](https://stackoverflow.com/users/22524549/karscott6)
                         [![LI Badge](https://img.shields.io/badge/youneedkyle-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youneedkyle/)
                         
 
